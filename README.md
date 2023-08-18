@@ -1,6 +1,11 @@
 # About this Repository:
 <i>NOTE: For lipsynced video results, scroll below</i><br><br>
 
+## To Run The Model:
+<br> 1. Specify the file paths, and make a new conda environment with Python = 3.6 <br>
+<br> 2. Now Install the necessary Liabraries from requirements.txt, and make a media folder, inside of which add the video and audio <br>
+<br> 3. Simply Run "Python main.py" and your Final video will be ready
+
 <b>Objectives Achieved:</b>
 1. Visual and Audio Quality Lip Sync: The project successfully lip-syncs videos with improved visual and audio quality, ensuring that the lip movements accurately match the spoken words.
 2. Robustness for Any Video: Unlike the original Wav2Lip model, the developed AI can handle videos with or without a face in each frame, making it more versatile and error-free.
